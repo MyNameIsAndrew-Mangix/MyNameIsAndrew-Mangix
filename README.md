@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MyNameIsAndrew-Mangix
-- 👀 I’m interested indulging in my hobbies
+- 👀 I’m interested in tech in general
 - 🌱 I’m currently learning the flavor of the week
-- 💞️ I’m looking to collaborate on something I'll probably lose motivation to work on in a few days
-- 📫 How to reach me ... {you don't}
+- 💞️ I’m looking to collaborate on anything please I'm desperate
+- 📫 How to reach me ... my twitter @Andrew_MKII
 
 <!---
 MyNameIsAndrew-Mangix/MyNameIsAndrew-Mangix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

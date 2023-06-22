@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech in general
 - 🌱 I’m currently learning the flavor of the week
 - 💞️ I’m looking to collaborate on full-stack apps
-- 📫 Want to reach me? Try my personal site <link here when hosted> or @Andrew_MKII on twitter!
+- 📫 Want to reach me? Try my [personal site](https://andrewklinsic.netlify.app/) or @Andrew_MKII on twitter!
 
 <!---
 MyNameIsAndrew-Mangix/MyNameIsAndrew-Mangix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

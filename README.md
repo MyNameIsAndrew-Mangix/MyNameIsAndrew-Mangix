@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/andrewmkii" target="blank"><img src="https://img.shields.io/twitter/follow/andrewmkii?logo=twitter&style=for-the-badge" alt="andrewmkii" /></a> </p>
 
-- 🌱 I’m currently learning **typescript, C#, and the flavor of the week (opensearch atm)**
+- 🌱 I’m currently learning **typescript, C#, and the flavor of the week (Elasticsearch atm)**
 
 - 👯 I’m looking to collaborate on **almost anything**
 
-- 👨‍💻 All of my projects are available at [my personal site](https://andrewklinsic.netlify.app/)
+- 👨‍💻 All of my projects are available here. If you want to learn more about me, here's [my site](https://andrewklinsic.netlify.app/)
 
 - 💬 Ask me about **almost anything and I'll give either accurate information or something wildly off the mark**
 
